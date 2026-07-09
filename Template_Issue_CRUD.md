@@ -61,8 +61,12 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
+<!-- Preencher após execução -->
 ---
 
 ## Cenário 2 — CREATE (Inclusão de Nova Configuração)
@@ -86,7 +90,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
@@ -107,7 +114,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
@@ -128,7 +138,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
@@ -150,7 +163,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
@@ -173,7 +189,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
@@ -190,7 +209,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
@@ -207,7 +229,10 @@
 ### Resultado Obtido
 > <!-- Preencher após execução -->
 
-### Status: <!-- [ ] Erro  [ ] Ok  [ ] Pendente -->
+### Status: 
+- [ ] Erro
+- [ ] [ ] Ok
+- [ ] [ ] Pendente
 
 ---
 
