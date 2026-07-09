@@ -59,7 +59,7 @@
 > Listagem exibida corretamente, filtros e paginação funcionais, colunas de vinculações exibindo os nomes corretamente.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -88,7 +88,7 @@
 > Configuração criada com sucesso, mensagem de confirmação exibida e registro visível na listagem.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -112,7 +112,7 @@
 > Registro atualizado com sucesso, mensagem de confirmação exibida e alterações refletidas na listagem.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -136,7 +136,7 @@
 > Registro excluído com sucesso, mensagem de confirmação exibida, registro não aparece mais na listagem.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -161,7 +161,7 @@
 > Certificado digital associado com sucesso, mensagem de confirmação exibida.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -187,7 +187,7 @@
 > CRUD de Web Services de NF funcionando corretamente, navegação da tela pai para filha sem erros.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -207,7 +207,7 @@
 > Formulário exibido em modo leitura, sem possibilidade de edição.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
@@ -227,7 +227,7 @@
 > Para o campo Estabelecimento (obrigatório) sem preenchimento, o sistema exibe mensagem de erro e não grava. Combos carregam corretamente. Série NF filtra por filial.
 
 ### Resultado Obtido
-> <!-- Preencher após execução -->
+>  Preencher após execução 
 
 ### Status: 
 - [ ] Erro
